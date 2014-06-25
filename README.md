@@ -25,3 +25,7 @@ ACS 2012 5-year Block Group Population Estimate for 0.50 Buffer from Station poi
 ACS 2012 5-year Tract Population Estimate for 0.50 Buffer from Station point
 ######bl2010popbuf050miles
 Census 2010 Block Population Estimate for 0.50 Buffer from Station point
+
+##Caveats
+
+San Ysidro/Intl Border station buffers cross border - Mexico pop estimates not included - US estimates only
