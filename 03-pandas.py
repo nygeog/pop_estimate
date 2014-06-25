@@ -32,7 +32,7 @@ for h in buf_dist_txt:
 		df = df.merge(t, on='stop_id')
 
 outFile1= wd + 'tables/trolley_pop_estimates.csv'
-outFile2= '/Users/danielmsheehan/GitHub/pop_estimate/trolley_pop_estimates.csv'
+outFile2= '/Users/danielmsheehan/GitHub/pop_estimate/data/trolley_pop_estimates.csv'
 df.to_csv(outFile1, index=False)
 df.to_csv(outFile2, index=False)
 
