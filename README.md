@@ -2,7 +2,7 @@
 
 Population Estimate using two buffers 0.25 and 0.50 mile with data from area weighed interpolation (buffer, intersect, dissolve sum)
 
-[Esri Area Weighted Estimate Example](http://proceedings.esri.com/library/userconf/proc97/proc97/to300/pap298/p298.htm)
+[Esri Area Weighted Estimate Example - see fig. 5 & 6](http://proceedings.esri.com/library/userconf/proc97/proc97/to300/pap298/p298.htm)
 
 For American Community Survey (ACS) 2008 - 2012 5-year Tract and Block Group & 2010 Census Block.
 
