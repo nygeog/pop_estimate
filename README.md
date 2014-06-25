@@ -29,3 +29,6 @@ Census 2010 Block Population Estimate for 0.50 Buffer from Station point
 ##Caveats
 
 San Ysidro/Intl Border station buffers cross border - Mexico pop estimates not included - US estimates only
+
+##Map
+[![CartoDB Map](images/cartodb.png)](http://nygeog.cartodb.com/viz/04b974b0-fc7c-11e3-8aba-0e230854a1cb/embed_map?title=true&description=true&search=true&shareable=true&cartodb_logo=true&layer_selector=true&legends=true&scrollwheel=true&fullscreen=true&sublayer_options=1|1&sql=&sw_lat=32.568081895668705&sw_lon=-117.28008270263672&ne_lat=32.80790895899682&ne_lon=-116.9168472290039)

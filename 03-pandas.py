@@ -31,5 +31,8 @@ for h in buf_dist_txt:
 		t = pd.read_csv(inFile)
 		df = df.merge(t, on='stop_id')
 
-outFile= wd + 'tables/trolley_pop_estimates.csv'
-df.to_csv(outFile, index=False)
+outFile1= wd + 'tables/trolley_pop_estimates.csv'
+outFile2= '/Users/danielmsheehan/GitHub/pop_estimate/trolley_pop_estimates.csv'
+df.to_csv(outFile1, index=False)
+df.to_csv(outFile2, index=False)
+
