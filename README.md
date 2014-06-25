@@ -1,10 +1,12 @@
 #Population Estimate for VOSD
 
-Population Estimate using two buffers 0.25 and 0.50 mile with data from area weighed interpolation (buffer, intersect, dissolve sum)
+Population Estimate using two buffers 0.25 and 0.50 mile with data from area weighed interpolation (buffer, intersect, dissolve sum) All geoprocessing done in NAD 83 State Plane California VI (6) (US feet).
 
 [Esri Area Weighted Estimate Example - see fig. 5 & 6](http://proceedings.esri.com/library/userconf/proc97/proc97/to300/pap298/p298.htm)
 
 For American Community Survey (ACS) 2008 - 2012 5-year Tract and Block Group & 2010 Census Block.
+
+####See Data folder for population estimates
 
 ##Data Dictionary:
 ######stop_id
